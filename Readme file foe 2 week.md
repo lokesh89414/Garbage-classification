@@ -1,8 +1,4 @@
-Awesome, Lokesh! Based on your uploaded notebook titled **"Garbage Classification using Transfer Learning"**, here’s a professional, structured `README.md` for **Week 2: Model Building & Training**, formatted to follow the same vibe as Week 1.
 
----
-
-````markdown
 # ♻️ Garbage Classification using Deep Learning  
 **AICTE – Shell Green AI Internship (Week 2 Task)**  
 
